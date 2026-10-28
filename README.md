@@ -1,4 +1,4 @@
-# Deposits Monthly Business Review (MBR) — Executive Leadership Team(ELT) Deck
+# Deposits Monthly Business Review (MBR) — Executive Leadership Team (ELT) Deck
 
 > **Note on Data:** All financial metrics, balance figures, and customer data in this repository are **illustrative sample data** created for portfolio presentation purposes.
 
@@ -31,5 +31,5 @@ The presentations outline four actionable decisions to close the -$120M plan gap
 
 ## Files Included
 
-* `Deposits_Executive_Summary.pdf`: 3-slide executive dashboard and summary view.
-* `Deposits_Detailed_MBR_Leadership_Team.pdf`: Full 10-slide detailed Monthly Business Review presentation.
+* [`Deposits_Executive_Summary.pdf`](Deposits_Executive_Summary.pdf): 3-slide executive dashboard and summary view.
+* [`Deposits_Detailed_MBR_Leadership_Team.pdf`](Deposits_Detailed_MBR_Leadership_Team.pdf): Full detailed Monthly Business Review presentation.
